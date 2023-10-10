@@ -1,0 +1,10 @@
+body{
+    background-color:grey ;
+}
+nav li{
+font-size: 22px;
+display: inline-block;
+text-transform: lowercase;
+font-weight:lighter;
+text-decoration: none;
+}
