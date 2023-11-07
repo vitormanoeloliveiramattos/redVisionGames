@@ -2,15 +2,9 @@ body{
     background-color:grey ;
 }
 nav li{
-font-size: 32px;
+font-size: 22px;
 display: inline-block;
 text-transform: lowercase;
 font-weight:lighter;
 text-decoration: none;
-}
-.flex-box{
-    display: flex;
-}
-.red{
-    width: 15%;
 }
