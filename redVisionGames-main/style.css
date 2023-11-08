@@ -1,10 +1,16 @@
 body{
-    background-color:grey ;
+    background-color:rgb(31, 28, 28) ;
 }
 nav li{
-font-size: 22px;
+color: white;
+font-size: 16px;
 display: inline-block;
-text-transform: lowercase;
 font-weight:lighter;
 text-decoration: none;
+}
+.flex-box{
+    display: flex;
+}
+.red{
+    width: 15%;
 }
